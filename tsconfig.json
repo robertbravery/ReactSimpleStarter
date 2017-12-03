@@ -11,7 +11,7 @@
     "strict": true,
     "lib": ["es6", "dom"],
     "types": ["webpack-env", "youtube-api-search"],
-    "noImplicitAny": true
+    "noImplicitAny": false
   },
   "exclude": [
       "bin",
