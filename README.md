@@ -1,4 +1,7 @@
 # ReduxSimpleStarter
+This is a clone from Stephen Grider's repo. Changes have been made as I work through the Udemy tutorial. 
+In somecases I have changed to Typescript. Why? For no other reason than to learn and get familiar with Typescript and to see how JS and TS work together in one solution.
+-Robert Bravery
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
